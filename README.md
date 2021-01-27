@@ -34,9 +34,9 @@ I'm a software engineer passionate about perfomance, looking for my first full t
 - 📫 How to reach me: [@mmaghous](https://twitter.com/mmaghous);
 - 📝[Resume](https://magmine.github.io/cachehit/author/CV.html)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/mmaghous?style=social)](https://twitter.com/mmaghous)
-[![Linkedin: imthepk](https://img.shields.io/badge/-magmine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-amine-maghous-16161b125/)](https://www.linkedin.com/in/mohammed-amine-maghous-16161b125/)
-[![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/magmine?label=follow&style=social)](https://github.com/magmine)
+[![Twitter: magmine](https://img.shields.io/twitter/follow/mmaghous?style=social)](https://twitter.com/mmaghous)
+[![Linkedin: mmaghous](https://img.shields.io/badge/-magmine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-amine-maghous-16161b125/)](https://www.linkedin.com/in/mohammed-amine-maghous-16161b125/)
+[![GitHub magmine](https://img.shields.io/github/followers/magmine?label=follow&style=social)](https://github.com/magmine)
 
 
 **Languages and Tools:**  
@@ -44,11 +44,12 @@ I'm a software engineer passionate about perfomance, looking for my first full t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <a href="https://github.com/magmine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magmine&theme=light" />
