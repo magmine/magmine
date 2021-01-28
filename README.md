@@ -28,8 +28,8 @@ I'm a software engineer passionate about perfomance.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a recently graduated software engineer, looking for my first full time job.
-- 🌱 I’m currently enhancing my C++ skills and it's related ecosystem, and started learning Dart and flutter for mobile developement;
+- 👨🏽‍💻 I’m a recently graduated software engineer.
+- 🌱 I’m currently enhancing my Python/Django/JS/ReactJS and C++ skills;
 - 💬 Ask me about anything, I would be happy to help;
 - 📫 How to reach me: [@mmaghous](https://twitter.com/mmaghous);
 - 📝[Resume](https://magmine.github.io/cachehit/author/CV.html)
