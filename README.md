@@ -24,7 +24,7 @@
 
 **About**
 
-I'm a software engineer passionate about perfomance, looking for my first full time job preferably as a C++ developer.
+I'm a software engineer passionate about perfomance.
 
 **Talking about Personal Stuffs:**
 
