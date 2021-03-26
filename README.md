@@ -1,7 +1,7 @@
 
 ## Hey, I'm [Mohammed Amine MAGHOUS](https://magmine.github.io/cachehit/author/CV.html) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magmine&color=blue&style=flat-square" alt="SpiderX" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magmine&color=blue&style=flat-square" alt="magmine" /> </p>
 
 <a href="https://twitter.com/mmaghous">
   <img align="left" alt="Amine's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
