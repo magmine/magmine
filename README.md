@@ -24,7 +24,7 @@
 
 **About**
 
-I’m a C++ software engineer, passionate about building performant, scalable and maintainable software;
+I’m a software engineer, passionate about building performant, scalable and maintainable software;
 - 🌱 I’m currently enhancing my Python/Django/JS/ReactJS/Ansible and C++ skills;
 - 💬 If you are passionate about what you are doing and working hard to master it then you are my friend;
 - 📫 How to reach me: [@mmaghous](https://twitter.com/mmaghous);
