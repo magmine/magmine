@@ -30,6 +30,21 @@ I’m a software engineer, passionate about building performant, scalable and ma
 - 📫 How to reach me: [@mmaghous](https://twitter.com/mmaghous);
 - 📝[Resume](https://magmine.github.io/cachehit/author/CV.html);
 
+**Mantra:**
+> Hope is work and effort, and effort is never wasted
+
+**Books I've read partialy (more than 50%) or completly:**
+  - Technical:
+    - _C++ Concurrency in Action-Manning Publications_ by Anthony Williams (2012)
+    - _Principles of Parallel Programming-Pearson_ by Calvin Lin, Larry Snyder (2008)
+    - _Clean Code, A Handbook of Agile Software Craftmanship-Prentice_ by Robert C. Martin (2010)
+  - Self-development:
+    - _Think and grow rich_ by Napoleon Hill
+
+**Quotes:**
+> _"Great things happen when the world agrees"_ ISO.
+
+
 [![Twitter: magmine](https://img.shields.io/twitter/follow/mmaghous?style=social)](https://twitter.com/mmaghous)
 [![Linkedin: mmaghous](https://img.shields.io/badge/-magmine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-amine-maghous-16161b125/)](https://www.linkedin.com/in/mohammed-amine-maghous-16161b125/)
 [![GitHub magmine](https://img.shields.io/github/followers/magmine?label=follow&style=social)](https://github.com/magmine)
@@ -46,17 +61,6 @@ I’m a software engineer, passionate about building performant, scalable and ma
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-**Mantra:**
-> Hope is work and effort, and effort is never wasted
-
-**Books I've read partialy (more than 50%) or completly:**
-  - Technical:
-    - _C++ Concurrency in Action-Manning Publications_ by Anthony Williams (2012)
-    - _Principles of Parallel Programming-Pearson_ by Calvin Lin, Larry Snyder (2008)
-    - _Clean Code, A Handbook of Agile Software Craftmanship-Prentice_ by Robert C. Martin (2010)
-  - Self-development:
-    - _Think and grow rich_ by Napoleon Hill
 
 <a href="https://github.com/magmine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magmine&theme=light" />
