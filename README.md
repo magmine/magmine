@@ -42,8 +42,13 @@ I’m a software engineer, passionate about building performant, scalable and ma
     - _Think and grow rich_ by Napoleon Hill
 
 **Quotes:**
-> _"Great things happen when the world agrees"_ ISO.
-> _"If you’re willing to embrace the grind, you can pull off the impossible"_ Jacob Kaplan-Moss.
+> _"Great things happen when the world agrees"_
+
+ISO.
+
+> _"If you’re willing to embrace the grind, you can pull off the impossible"_
+
+Jacob Kaplan-Moss.
 
 
 [![Twitter: magmine](https://img.shields.io/twitter/follow/mmaghous?style=social)](https://twitter.com/mmaghous)
