@@ -1,5 +1,5 @@
 
-## Hey, I'm [Mohammed Amine MAGHOUS](https://magmine.github.io/cachehit/author/CV.html) 👋
+## Hey, I'm Mohammed Amine MAGHOUS 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magmine&color=blue&style=flat-square" alt="magmine" /> </p>
 
@@ -24,11 +24,11 @@
 
 **About**
 
-I’m a software engineer, passionate about building performant, scalable and maintainable software;
-- 🌱 I’m currently enhancing my Python/Django/JS/ReactJS/Ansible and C++ skills;
+I’m a software engineer, passionate about building performant, scalable, maintainable and secure software;
+- 🌱 I’m currently enhancing my Java/Spring/Javascript/ReactJS skills;
 - 💬 If you are passionate about what you are doing and working hard to master it then you are my friend;
 - 📫 How to reach me: [@mmaghous](https://twitter.com/mmaghous);
-- 📝[Resume](https://magmine.github.io/cachehit/author/CV.html);
+- 📝[Resume](https://magmine.github.io/cachehit/author/CV.html) (outdated);
 
 **Mantra:**
 > Hope is work and effort, and effort is never wasted
@@ -37,18 +37,20 @@ I’m a software engineer, passionate about building performant, scalable and ma
   - Technical:
     - _C++ Concurrency in Action-Manning Publications_ by Anthony Williams (2012)
     - _Principles of Parallel Programming-Pearson_ by Calvin Lin, Larry Snyder (2008)
-    - _Clean Code, A Handbook of Agile Software Craftmanship-Prentice_ by Robert C. Martin (2010)
+    - _Clean Code, A Handbook of Agile Software Craftmanship-Prentice_ by Robert C. 
+    Martin (2010)
+    - _The Pragmatic Programmer_ by David Thomas, Andrew Hunt (2019)
   - Self-development:
     - _Think and grow rich_ by Napoleon Hill
 
 **Quotes:**
 > _"Great things happen when the world agrees"_
 
-ISO.
+  _ISO_.
 
 > _"If you’re willing to embrace the grind, you can pull off the impossible"_
 
-Jacob Kaplan-Moss.
+  _Jacob Kaplan-Moss_.
 
 
 [![Twitter: magmine](https://img.shields.io/twitter/follow/mmaghous?style=social)](https://twitter.com/mmaghous)
@@ -64,7 +66,7 @@ Jacob Kaplan-Moss.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
