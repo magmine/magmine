@@ -11,10 +11,6 @@
   <img align="left" alt="Amine's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/magmine">
-  <img align="left" alt="Amine's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <a href="https://stackoverflow.com/users/7227724/magmine">
   <img align="left" alt="Amine's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
