@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://leetcode.com/magmine">
-  <img align="left" alt="Amine's leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" />
+  <img align="left" alt="Amine's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
 </a>
 
 <br/>
